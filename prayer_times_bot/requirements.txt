@@ -1,0 +1,11 @@
+# Telegram Bot Framework
+aiogram==3.23.0
+
+# HTTP Client for API requests
+aiohttp==3.13.2
+
+# Environment variable management
+python-dotenv==1.2.1
+
+# Timezone handling
+pytz==2025.2
