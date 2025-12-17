@@ -42,6 +42,12 @@ htmlcov/
 # Railway
 .railway/
 
+# Docker & Railway config (not needed in container)
+Dockerfile
+.dockerignore
+railway.json
+.python-version
+
 # OS
 .DS_Store
 Thumbs.db
